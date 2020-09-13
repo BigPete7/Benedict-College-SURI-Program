@@ -60,5 +60,6 @@ Link to sentdex's RL website: https://pythonprogramming.net/own-environment-q-le
 // System required me to download latest NVIDIA CUDA 3D Tensor rendering architecture was exclusive only to NVIDIA Graphics Cards //
 
 
-Owned by BigPete7.
+Copyright by BigPete7.
+Modified on 9/13/2020.
 
