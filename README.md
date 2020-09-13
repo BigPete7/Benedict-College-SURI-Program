@@ -1,9 +1,10 @@
 # Benedict-College-SURI-Program
 
 **ABOUT THIS CODE**
-// My Topics include the Deep Q Learning algorithims and Carla's vehicle simulator provided by sentdex's Reinforcement Learning videos.//
-// These coding algorithims were modified by me for practical use and full operability on Python's older IDE compiler v. 3.5.1 //
-// Carla Vehicle Simulator v. 1.0.77 //
+My Topics include the Deep Q Learning algorithims and Carla's vehicle simulator provided by sentdex's Reinforcement Learning videos.
+The coding algorithims were modified by me for practical use and full operability on Python's older IDE compiler v. 3.5.1. 
+
+Link to sentdex's RL website: https://pythonprogramming.net/own-environment-q-learning-reinforcement-learning-python-tutorial/
 
 **REVISIONS**
 //6.4.20 Added code for Tensorflow graphical data for CarlaVSTM.py and Blobworld.py //
