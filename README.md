@@ -7,8 +7,10 @@
 
 **REVISIONS**
 //6.4.20 Added code for Tensorflow graphical data for CarlaVSTM.py and Blobworld.py //
+
 #Tensorboard Documentation
-	mnist = tf.keras.datasets.mnist
+ 
+    mnist = tf.keras.datasets.mnist
 	
     (x_train, y_train), (x_test, y_test) = mnist.load_data()
     x_train, x_test = x_train / 255.0, x_test / 255.0
@@ -20,7 +22,7 @@
 	  tf.keras.layers.Dense(10)
 	])
 
-  predictions = model(x_train[:1]).numpy()
+  	predictions = model(x_train[:1]).numpy()
 	    predictions
 	
 	    tf.nn.softmax(predictions).numpy()
@@ -33,6 +35,7 @@
 	    model.fit(x_train, y_train, epochs=5)
       
  //6.1.20 Code for logging Blobworld scalars into Tensorboard //
+ 
 	# Custom method for saving own metrics
 	    # Creates writer, writes custom metrics and closes writer
 	    def update_stats(self, **stats):
