@@ -2,7 +2,9 @@
 
 **ABOUT THIS CODE**
 My Topics include the Deep Q Learning algorithims and Carla's vehicle simulator provided by sentdex's Reinforcement Learning videos.
-The coding algorithims were modified by me for practical use and full operability on Python's older IDE compiler v. 3.5.1. 
+The coding algorithims were modified by me for practical use and full operability on Python's older IDE compiler v. 3.5.1. This project
+was approved by Benedict College's STEM Program and put into practical use only for educational purposes. No actual vehicles or vehicle
+models were published using these algorithims.
 
 Link to sentdex's RL website: https://pythonprogramming.net/own-environment-q-learning-reinforcement-learning-python-tutorial/
 
